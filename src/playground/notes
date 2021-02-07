@@ -1,0 +1,7 @@
+https://github.com/ReactTraining/react-router
+https://reactrouter.com/
+npm i react-router
+    use browser router to create the router once
+    use route for every single page
+    file 3.js not working -> add historyApiFallback: true to wbpack.config  -> this tell the dev server we are handling routin via client side --> restart dev-server
+    
