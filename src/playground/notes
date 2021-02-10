@@ -5,3 +5,12 @@ npm i react-router
     use route for every single page
     file 3.js not working -> add historyApiFallback: true to wbpack.config  -> this tell the dev server we are handling routin via client side --> restart dev-server
     
+https://github.com/reduxjs/react-redux
+npm i react-redux
+
+ if (amount.match(/^\d*(\.\d{0,2})?$/)){                                      //  regex101.com regular expression
+
+ https://momentjs.com/ --> time library     --> npm i moment
+https://github.com/airbnb/react-dates  --> airbnb react-dates   --> npm i react-dates   ////   npm i react-addons-shallow-compare  --> used by react dates but not anymore updated
+const now = moment()
+console.log(now.format('MMM Do, YYYY'))
